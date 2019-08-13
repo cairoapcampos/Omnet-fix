@@ -1,5 +1,16 @@
-# Omnet-fix
+# Omnet-learn
 Repositório de soluções de problemas nas simulações do OMNet++
+
+
+## Documentação:
+
+```
+https://docs.omnetpp.org/
+https://github.com/burtonwilliamt/carlogicapi/tree/master/tutorials
+```
+
+
+## Solição de Problemas
 
 ## 1. Obstaculos não encontrados
 
