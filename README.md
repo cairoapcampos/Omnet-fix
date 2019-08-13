@@ -6,6 +6,7 @@ Repositório de documentação e soluções de problemas em simulações do OMNe
 
 ```
 https://docs.omnetpp.org/
+https://omnetpp.org/documentation/
 https://github.com/burtonwilliamt/carlogicapi/tree/master/tutorials
 ```
 
