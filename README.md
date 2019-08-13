@@ -3,7 +3,7 @@ Repositório de soluções de problemas nas simulações do OMNet++
 
 ## 1. Obstaculos não encontrados
 
-Caso não sejam utilizados obstaculos para o sinal de rádio, as alterações seguintes devem ser feitas:
+Caso não sejam utilizados obstaculos como prédios para o sinal de rádio, as alterações seguintes devem ser feitas:
 
 *  Arquivo config.xml:
 
