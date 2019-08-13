@@ -28,10 +28,9 @@ Comentar as linhas:
 #*.obstacles.debug = false
 #*.obstacles.obstacles = xmldoc("config.xml", "//AnalogueModel[@type='SimpleObstacleShadowing']/obstacles")
 
-```
-
 Fonte: https://stackoverflow.com/questions/54615901/how-to-fix-simpleobstacleshadowing-error-no-obstacles-have-been-added-in-mod
-    
+ 
+ ```
     
 
 
