@@ -1,4 +1,4 @@
-# omnet-fix
+# Omnet-fix
 Repositório de soluções de problemas nas simulações do OMNet++
 
 ## 1. Obstaculos não encontrados
