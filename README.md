@@ -1,5 +1,5 @@
 # Omnet-learn
-Repositório de soluções de problemas nas simulações do OMNet++
+Repositório de documentação e soluções de problemas em simulações do OMNet++
 
 
 ## Documentação:
@@ -10,7 +10,7 @@ https://github.com/burtonwilliamt/carlogicapi/tree/master/tutorials
 ```
 
 
-## Solição de Problemas
+## Solução de Problemas
 
 ## 1. Obstaculos não encontrados
 
