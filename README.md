@@ -24,8 +24,7 @@ Comentar as linhas:
     
   Comentar as linhas:
     
- ```
-    
+ ``` 
 #*.obstacles.debug = false
 #*.obstacles.obstacles = xmldoc("config.xml", "//AnalogueModel[@type='SimpleObstacleShadowing']/obstacles")
 
