@@ -6,6 +6,7 @@ Repositório de documentação e soluções de problemas em simulações do OMNe
 
 ```
 https://docs.omnetpp.org/
+https://github.com/shigeya/omnetpp/tree/master/samples/tictoc
 https://omnetpp.org/documentation/
 https://github.com/burtonwilliamt/carlogicapi/tree/master/tutorials
 https://veins.car2x.org/documentation/
