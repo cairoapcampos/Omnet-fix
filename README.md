@@ -1,4 +1,5 @@
-# Omnet-learn
+# OmnetSolutions
+
 Repositório de documentação e soluções de problemas em simulações do OMNet++
 
 
