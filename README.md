@@ -1,6 +1,6 @@
 # OmnetSolutions
 
-Repositório de documentação e soluções de problemas em simulações do OMNet++
+Repositório de solução de problemas em simulações do Veins, SUMO e OMNET++ 
 
 
 ## Documentação:
